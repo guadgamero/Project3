@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(250, 136, 136);
+  font-family: "Tahoma", Geneva, sans-serif;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  background-color: rgb(255, 231, 190);
+  margin: 0;
+  padding-right: 50px;
+  border: 3px solid rgb(225, 201, 160);
+  text-align: center;
+  font-size: 40px;
+  padding: 10px;
+}
+
+li {
+  background-color: rgb(255, 231, 190);
+  display: inline;
+  margin: 0;
+  padding-right: 50px;
+}
+
+.squirtle {
+  background-color: rgb(255, 192, 154);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+  right: 20%;
+  left: -5%;
+  padding: 5% 5% 2.5% 5%;
+  margin: 5%;
+}
+
+.murkrow {
+  background-color: rgb(255, 231, 190);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 10%;
+  right: 0%;
+  padding: 5% 5% 2.5% 5%;
+  margin: 5% 10% 0% 5%;
+}
+
+.cherubi {
+  background-color: rgb(163, 212, 255);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+  right: 20%;
+  left: -5%;
+  padding: 5% 5% 2.5% 5%;
+  margin: 5% 10% 0% 5%;
+}
+
+.sobble {
+  background-color: rgb(127, 200, 255);
+  font-family: 'Comic Sans', sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 10%;
+  right: 0%;
+  padding: 5% 5% 2.5% 5%;
+  margin: 5% 10% 0% 5%;
+}
+
+.video  {
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  padding: 5% 5% 2.5% 5%;
+  margin: 5% 10% 0% 5%;
+}
+
+.gallery {
+  background-color: rgb(253, 226, 231);
+  font-family: 'Marck Script', cursive;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+  margin-bottom: 0;
+}
+
+.gallery H1{
+  background-color: rgb(253, 226, 231);
+  font-family: 'Marck Script', cursive;
+  font-size: 200%;
+  position: relative;
+}
+
+
+.resume {
+  background-color: rgb(170, 255, 211);
+  color: rgb(189, 0, 69);
+}
+
+.resume p{
+  background-color: rgb(170, 255, 211);
+  color: rgb(189, 0, 69);
+  padding-right: 50px;
+  text-align: left;
+  font-size: 15px;
+  padding: 5px;
+}
+
+.resume H2{
+  background-color: rgb(170, 255, 211);
+  color: rgb(189, 0, 69);
+  padding-right: 50px;
+  text-align: center;
+  font-size: 30px;
+  padding: 5px;
+}
+
+.resume li{
+  list-style-type: none;
+  background-color: rgb(170, 255, 211);
+  color: rgb(189, 0, 69);
+  padding-right: 50px;
+  border: 3px solid rgb(225, 201, 160);
+  text-align: center;
+  font-size: 20px;
+  padding: 5px;
+}
